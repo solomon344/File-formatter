@@ -1,5 +1,5 @@
 # File-formatter
-##Desktop application created with python
+## Desktop application created with python
 
 ### This is a simple application created with python, Tkinter for the Ui
 
